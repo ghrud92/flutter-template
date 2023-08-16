@@ -22,6 +22,7 @@ Web은 실제 프로덕트가 아니라 간단한 테스트를 위한 용도
 ### 적용된 것
 
 1. Project initialization & FVM 버전 관리 적용
+2. 앱 이름 &  번들 ID 변경
 
 ### 예정된 것
 
@@ -30,7 +31,6 @@ Web은 실제 프로덕트가 아니라 간단한 테스트를 위한 용도
 - [ ] Apple developer id 변경
 - [ ] 스플래시 화면 적용
 - [ ] 앱 아이콘 변경
-- [ ] 앱 이름 &  번들 ID 변경
 - [ ] pre-push hook 을 위한 스크립트 추가
 - [ ] Github Actions 적용(빌드, Firebase web hosting)
 
